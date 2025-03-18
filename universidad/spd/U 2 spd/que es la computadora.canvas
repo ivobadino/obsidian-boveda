@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"d433d02f62ea9526","type":"text","text":"es una maquina - digital - electromecanica - programable  que procesa datos","x":-500,"y":-500,"width":250,"height":120},
+		{"id":"3ea312ff87be231c","type":"text","text":"como opera?","x":-285,"y":-180,"width":185,"height":60},
+		{"id":"d8b0317bc6039772","type":"text","text":"TRES PASOS : input, proceso, output","x":-100,"y":-280,"width":250,"height":60},
+		{"id":"9859904cb640fbbf","type":"text","text":"INPUT: recibe desde algun periferico de entrada o de la memoria datos para procesar","x":-130,"y":-475,"width":280,"height":110},
+		{"id":"9a40f78c92c509bd","type":"text","text":"PROCESO: los datos recibidos mediante algun tipo de programacion previa los procesa y devuelve un resultado","x":200,"y":-400,"width":300,"height":120},
+		{"id":"01efce2c1fc4c1c4","type":"text","text":"OUTPUT: los resultados otorgados por el proceso se muestran a trves de perifericos de salida, o se almacenan en la memoria ","x":200,"y":-220,"width":320,"height":130},
+		{"id":"713119aab94d44fb","type":"text","text":"COMPUTADORA","x":-560,"y":-150,"width":185,"height":60,"color":"1"},
+		{"id":"04fcac7cb7eff08c","type":"text","text":"que es la computadora?\n","x":-480,"y":-310,"width":260,"height":60},
+		{"id":"41205d1d260e3fc4","type":"text","text":"HISTORIA ","x":-780,"y":-155,"width":140,"height":60},
+		{"id":"3a4416039216646b","x":-524,"y":-60,"width":113,"height":60,"type":"text","text":"#spd "}
+	],
+	"edges":[
+		{"id":"0a4ef3b84c1d2d1c","fromNode":"713119aab94d44fb","fromSide":"top","toNode":"04fcac7cb7eff08c","toSide":"bottom"},
+		{"id":"00a8619e51330820","fromNode":"04fcac7cb7eff08c","fromSide":"top","toNode":"d433d02f62ea9526","toSide":"bottom"},
+		{"id":"5c8966b8a7a3c466","fromNode":"3ea312ff87be231c","fromSide":"top","toNode":"d8b0317bc6039772","toSide":"left"},
+		{"id":"f894418ba3182487","fromNode":"d8b0317bc6039772","fromSide":"top","toNode":"9859904cb640fbbf","toSide":"bottom"},
+		{"id":"a1c11361db1e888f","fromNode":"d8b0317bc6039772","fromSide":"right","toNode":"9a40f78c92c509bd","toSide":"left"},
+		{"id":"1e42324e22b28512","fromNode":"d8b0317bc6039772","fromSide":"bottom","toNode":"01efce2c1fc4c1c4","toSide":"left"},
+		{"id":"5f003ba0bfd7fcd9","fromNode":"713119aab94d44fb","fromSide":"right","toNode":"3ea312ff87be231c","toSide":"left"},
+		{"id":"c2368887d2916cea","fromNode":"713119aab94d44fb","fromSide":"left","toNode":"41205d1d260e3fc4","toSide":"right"}
+	]
+}
