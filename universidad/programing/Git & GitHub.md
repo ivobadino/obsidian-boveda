@@ -69,7 +69,7 @@ Si aparecen :, para salir aprete la Q)
 	`$ git clone link
 
 IMPORTANTE: el link es el ya copiado del https desde el repositorio
- Al entrar con cd al archivo entraremos en la rama main (lo veremos más adelante), y al hacer ls veremos los archivos que este proyecto contiene.
+ Al entrar con cd al archivo entraremos en la rama main (lo veremos más adelante), y al hacer ls veremos los archivos que este proyecto contiene.Sin título
 
  - Para ver el historial de los cambios de nuestro proyecto se usa el comando:
 	`$ git log

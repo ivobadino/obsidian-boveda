@@ -6,24 +6,34 @@
       {
         "id": "a72b58337c37b5d3",
         "type": "tabs",
-        "dimension": 59.05292479108635,
+        "dimension": 42.061281337047355,
         "children": [
           {
-            "id": "de135667f6c94b31",
+            "id": "3e97aef5c4ac7439",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
+            "id": "fcd2e89b488ae198",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algoritmos 1/P.O.O.md",
+                "file": "algoritmos 1/modulo 1/Propiedades.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "P.O.O"
+              "title": "Propiedades"
             }
           },
           {
-            "id": "39db9950027d2e25",
+            "id": "aef9a41bcda088cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,83 +45,26 @@
               "icon": "lucide-file",
               "title": "Método"
             }
-          },
-          {
-            "id": "2c495ca37f5ad1d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Abstraccion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Abstraccion"
-            }
-          },
-          {
-            "id": "3897350b89423418",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algoritmos 1/modulo 1/Mensaje.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mensaje"
-            }
-          },
-          {
-            "id": "3e97aef5c4ac7439",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programing/Git & GitHub.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git & GitHub"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "ddaa7cc056267a96",
         "type": "tabs",
-        "dimension": 40.947075208913645,
+        "dimension": 57.938718662952645,
         "children": [
           {
-            "id": "d9a07616a6fe0de8",
+            "id": "39c396de7f609cc9",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://docs.google.com/document/d/1RBfNmKZFKZ90XvfQsN7zhtuUPV2Mvj7t-iyZiL2bClQ/edit?tab=t.0",
-                "title": "Objetos - Módulo 01: Objeto, mensaje, métodos. Intro a method lookup, referencias. - Documentos de Google",
-                "mode": "webview"
+                "url": "https://docs.google.com/document/d/14092iRsXDXih8-q_0UEXIGRSQmGtxL9pay1VXX4ceJg/edit?tab=t.0",
+                "title": "Objetos - Módulo 02: Referencias. Estado. Compartir objetos. Identidad. - Documentos de Google",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "Objetos - Módulo 01: Objeto, mensaje, métodos. Intro a method lookup, referencias. - Documentos de Google"
-            }
-          },
-          {
-            "id": "b8df15f620bb6514",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.wollok.org/material/lectures/",
-                "title": "Apuntes teóricos | Wollok",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Apuntes teóricos | Wollok"
+              "title": "Objetos - Módulo 02: Referencias. Estado. Compartir objetos. Identidad. - Documentos de Google"
             }
           },
           {
@@ -120,7 +73,7 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://gemini.google.com/app/8b1dd68fe5835fc4",
+                "url": "https://gemini.google.com/app/7a0596420bcbdcec",
                 "title": "Gemini",
                 "mode": "webview"
               },
@@ -135,11 +88,25 @@
               "type": "webviewer",
               "state": {
                 "url": "https://web.whatsapp.com/",
-                "title": "(8) WhatsApp",
+                "title": "(6) WhatsApp",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "(8) WhatsApp"
+              "title": "(6) WhatsApp"
+            }
+          },
+          {
+            "id": "7ca44c8279e7c09e",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.google.com/search?q=hospitalidad+significado&sca_esv=5b982d6d415b0dfc&sxsrf=AHTn8zpX3ZcLz9knJ9m38Xim-g891sLDBw%3A1742321923750&source=hp&ei=A7nZZ__8KsrS1sQPl5P1iQ8&iflsig=ACkRmUkAAAAAZ9nHE_csAaIolbLFKV7opd_qBGcYm5uE&oq=hospitalidad+&gs_lp=Egdnd3Mtd2l6Ig1ob3NwaXRhbGlkYWQgKgIIADIKEAAYgAQYRhj5ATIFEAAYgAQyBRAAGIAEMgUQABiABDIFEC4YgAQyBRAAGIAEMgUQABiABDIFEC4YgAQyBRAAGIAEMgUQABiABEjJT1DWCljfQnACeACQAQOYAaQPoAHOW6oBDTMtMS4yLjAuNC4wLjS4AQPIAQD4AQGYAgqgAtE-qAIKwgIHECMYJxjqAsICDRAuGNEDGMcBGCcY6gLCAgoQIxgnGMkCGOoCwgINECMY8AUYJxjJAhjqAsICCxAAGIAEGLEDGIMBwgIOEC4YgAQYsQMY0QMYxwHCAhEQLhiABBixAxjHARiOBRivAcICFBAuGIAEGLEDGIMBGMcBGI4FGK8BwgIREC4YgAQYsQMY0QMYgwEYxwHCAgsQLhiABBjHARivAcICDhAuGIAEGMcBGI4FGK8BwgIIEAAYgAQYsQPCAgcQABiABBgKmAMy8QV_rWNJaeglqpIHCzIuNC0yLjEuMy4yoAemoQGyBwk0LTIuMS4zLjK4B5U-&sclient=gws-wiz",
+                "title": "hospitalidad significado - Buscar con Google",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "hospitalidad significado - Buscar con Google"
             }
           }
         ],
@@ -305,13 +272,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8aa503779cecfcdf",
+  "active": "0cd337edc36c2b6f",
   "lastOpenFiles": [
-    "programing/Git & GitHub.md",
-    "programing/git y github",
+    "algoritmos 1/modulo 1/ambiente.md",
     "algoritmos 1/modulo 1/Método.md",
-    "ayudas para estilos de notas/HTML en obsidian.md",
+    "algoritmos 1/modulo 1/referencias.md",
+    "algoritmos 1/modulo 1/Objeto.md",
+    "algoritmos 1/modulo 1/Propiedades.md",
+    "algoritmos 1/todas las notas.canvas",
     "algoritmos 1/P.O.O.md",
+    "algoritmos 1/modulo 1/modulo1.pdf",
+    "algoritmos 1/modulo 1/Mensaje.md",
+    "spd/U 3 spd/Sistemas numericos.md",
+    "programing/Git & GitHub.md",
+    "proyecto snake.md",
+    "spd/asemmbler/tp final snake",
+    "programing/git y github",
+    "ayudas para estilos de notas/HTML en obsidian.md",
     "algoritmos 1/Abstraccion.md",
     "programing/curso one",
     "programing/css",
@@ -324,15 +301,10 @@
     "spd/U 2 spd/historia de la computadora.canvas",
     "spd/U 2 spd/Generación cero.md",
     "spd/U 2 spd/cuarta  generacion.md",
-    "algoritmos 1/modulo 1/Objeto.md",
-    "algoritmos 1/modulo 1/modulo1.pdf",
-    "algoritmos 1/modulo 1/Mensaje.md",
     "Abstracción.md",
     "algoritmos 1/archivos de algo1",
     "programing",
     "ayudas para estilos de notas",
-    "spd/U 3 spd/Sistemas numericos.md",
-    "algoritmos 1/modulo 2",
     "unidad 1.md"
   ]
 }

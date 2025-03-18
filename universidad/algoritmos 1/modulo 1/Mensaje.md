@@ -46,4 +46,9 @@ Son la forma que permite a los [[Objeto | objetos]] interactuar entre si y con e
 
 ![[modulo1.pdf#page=5]]
 
+## tipos de mensajes
+
+![[Método#disparadores]]
+
+---
 ## conclusión
