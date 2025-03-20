@@ -16,7 +16,7 @@ El paradigma orientado a objetos ( #POO ) es un modelo de programación que se c
 		 Consiste en ocultar los detalles internos de un objeto y exponer solo una interfaz pública para interactuar con él. Esto protege los datos y evita modificaciones no deseadas.
 	- ## **[[Herencia]]:** 
 		 Permite crear nuevas clases (subclases) basadas en clases existentes (superclases). Las subclases heredan los atributos y métodos de las superclases, lo que promueve la reutilización de código.
-	- ## **[[Polimorfismo]]:**
+	- ## **[[polimorfismo]]:**
 		 Permite que objetos de diferentes clases respondan a un mismo mensaje (llamada a un método) de formas diferentes. Esto facilita la flexibilidad y la extensibilidad del código.
 	- ## **[[Abstraccion]]:**
 		 Se enfoca en los aspectos esenciales de un objeto, ignorando los detalles irrelevantes. Esto ayuda a simplificar la complejidad del código y a hacerlo más fácil de entender.

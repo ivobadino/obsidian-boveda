@@ -3,6 +3,10 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "origen": "text"
+    "origen": "checkbox",
+    "nose": "checkbox",
+    "ad": "checkbox",
+    "aklfkla": "date",
+    "rtuyj": "text"
   }
 }
