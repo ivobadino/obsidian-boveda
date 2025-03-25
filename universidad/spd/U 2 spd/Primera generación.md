@@ -8,7 +8,7 @@ tags:
 # Contexto
 
 La primera generación va desde 1945 hasta 1954 aproximadamente. Estamos situados en el contexto de la segunda guerra mundial, esta misma fue una gran inductora de los desarrollos en la computación ya que se necesitaban automatización y velocidad en cálculos para la guerra. Es así como nació esta primera generación con la implementación de los tubos de vacío que permitían aumentar la velocidad de calculo permitiendo por ejemplo calcular de manera mas veloz trayectorias balísticas . 
-Esta generación de la [[historia de la computadora.canvas|historia de la computadora]] marco un inicio en la era digital y el  desarrollo de las primeras maquinas electrónicas.
+Esta generación de la [[HISTORIA DE LA COMPUTADORA.canvas|historia de la computadora]] marco un inicio en la era digital y el  desarrollo de las primeras maquinas electrónicas.
 
 ![[02 Historia Parte 1.pdf#page=14]] 
 

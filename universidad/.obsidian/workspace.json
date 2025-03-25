@@ -4,91 +4,158 @@
     "type": "split",
     "children": [
       {
-        "id": "9306ea9af963dcc6",
-        "type": "tabs",
-        "dimension": 44.080779944289695,
+        "id": "e8752665262e729a",
+        "type": "split",
+        "dimension": 40.389972144846794,
         "children": [
           {
-            "id": "58f447ef7a9ec8c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algoritmos 1/modulo 2/Estado.md",
-                "mode": "source",
-                "source": false
+            "id": "9306ea9af963dcc6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "94cbe6ede97573c6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "spd/U 5 spd/complemento A2.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "complemento A2"
+                }
               },
-              "icon": "lucide-file",
-              "title": "Estado"
-            }
+              {
+                "id": "4aaa2db84dad8f51",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Vista gráfica"
+                }
+              },
+              {
+                "id": "aeac7e024f149c8f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "spd/U 5 spd/aritmetica y logica.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "aritmetica y logica"
+                }
+              },
+              {
+                "id": "8013f593a0502b97",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "spd/U 5 spd/implementacion del Ca1.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "implementacion del Ca1"
+                }
+              }
+            ],
+            "currentTab": 2
           },
           {
-            "id": "10ba4692dcbf8556",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "72f2c8096d1247f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NOTAS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NOTAS"
-            }
-          },
-          {
-            "id": "52a90ef8bb1ae6b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algoritmos 1/modulo 3/polimorfismo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "polimorfismo"
-            }
+            "id": "b6e3044a3dd0304d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fda22bd4524ef45d",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "spd/archivos spd/pdf's unidades/05 ALU.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "05 ALU"
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 2
+        "direction": "horizontal"
       },
       {
         "id": "ddaa7cc056267a96",
         "type": "tabs",
-        "dimension": 55.919220055710305,
+        "dimension": 59.610027855153206,
         "children": [
           {
-            "id": "0cd337edc36c2b6f",
+            "id": "96667b94e5625349",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cerebro virtual/TAREAS PENDIENTES PARA ESTUDIAR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TAREAS PENDIENTES PARA ESTUDIAR"
+            }
+          },
+          {
+            "id": "3692f2e96ef6c0d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cerebro virtual/CALENDARIO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CALENDARIO"
+            }
+          },
+          {
+            "id": "76a661ad920c512b",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
                 "url": "https://web.whatsapp.com/",
-                "title": "(7) WhatsApp",
+                "title": "(3) WhatsApp",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "(7) WhatsApp"
+              "title": "(3) WhatsApp"
             }
           },
           {
-            "id": "ce7350321d44821c",
+            "id": "1e51e267b913468b",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://gemini.google.com/app/01b852d54696d438",
+                "url": "https://www.youtube.com/watch?v=2b4fYhlKTMk",
+                "title": "UNSAM SPD Clase07 - YouTube",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "UNSAM SPD Clase07 - YouTube"
+            }
+          },
+          {
+            "id": "7c032fc47dd66025",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://gemini.google.com/app/8b1dd68fe5835fc4",
                 "title": "Gemini",
                 "mode": "webview"
               },
@@ -97,76 +164,21 @@
             }
           },
           {
-            "id": "48970e3c10185e7e",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.wollok.org/material/lectures/",
-                "title": "Apuntes teóricos | Wollok",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Apuntes teóricos | Wollok"
-            }
-          },
-          {
-            "id": "a5212024c5f0d6ae",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://docs.google.com/document/d/1HiYxLswd4O0MBqnT3jGo2K9e_4FE73RXF_lf8NWVOSE/edit?tab=t.0",
-                "title": "Objetos - Módulo 04: Objetos básicos. - Documentos de Google",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Objetos - Módulo 04: Objetos básicos. - Documentos de Google"
-            }
-          },
-          {
-            "id": "d7de88c1bf08c7ee",
+            "id": "effe09d3b6554833",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTAS.md",
-                "mode": "preview",
+                "file": "programing/Git & GitHub.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NOTAS"
-            }
-          },
-          {
-            "id": "589265999f714b10",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://docs.google.com/document/d/1X7Sz12e7rbVO1x7uMD7ECjZnT-chELx0ElTPmNvNURU/edit?tab=t.0",
-                "title": "Objetos - Módulo 03: Introducción a Polimorfismo - Documentos de Google",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Objetos - Módulo 03: Introducción a Polimorfismo - Documentos de Google"
-            }
-          },
-          {
-            "id": "7ac11b077e75a881",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.wollok.org/getting_started/new_project/",
-                "title": "Nuevo proyecto | Wollok",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Nuevo proyecto | Wollok"
+              "title": "Git & GitHub"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -189,7 +201,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -198,7 +210,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:ruedas-mecanicas",
+                "query": "tag:unidad-3",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -320,53 +332,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0cd337edc36c2b6f",
+  "active": "effe09d3b6554833",
   "lastOpenFiles": [
-    "NOTAS.md",
-    "spd/archivos spd/05 ALU.pdf",
-    "spd/archivos spd/03 Sistemas numricos - boole.pdf",
-    "algoritmos 1/modulo 2/Estado.md",
-    "algoritmos 1/modulo 4",
-    "algoritmos 1/modulo 3/polimorfismo.md",
-    "algoritmos 1/encapsulamiento.md",
-    "algoritmos 1/modulo 3/modulo 3.pdf",
-    "0002-09-10.md",
-    "2025-09-10.md",
-    "algoritmos 1/modulo 2/modulo 2.pdf",
-    "algoritmos 1/modulo 3",
-    "algoritmos 1/modulo 2/Wollok.md",
-    "algoritmos 1/modulo 1/referencias.md",
-    "spd/archivos spd/04 Computador.pdf",
-    "spd/U 3 spd/Sistemas numericos.md",
-    "algoritmos 1/modulo 1/Método.md",
-    "algoritmos 1/modulo 1/ambiente.md",
-    "algoritmos 1/modulo 1/Objeto.md",
-    "algoritmos 1/modulo 1/Propiedades.md",
-    "algoritmos 1/todas las notas.canvas",
-    "algoritmos 1/P.O.O.md",
-    "algoritmos 1/modulo 1/modulo1.pdf",
-    "algoritmos 1/modulo 1/Mensaje.md",
     "programing/Git & GitHub.md",
-    "spd/asemmbler/tp final snake/proyecto snake.md",
-    "spd/asemmbler/tp final snake",
-    "programing/git y github",
+    "cerebro virtual/TAREAS PENDIENTES PARA ESTUDIAR.md",
+    "cerebro virtual/CALENDARIO.md",
+    "spd/archivos spd/pdf's unidades/05 ALU.pdf",
+    "spd/U 5 spd/aritmetica y logica.md",
+    "spd/archivos spd/imagenes/Pasted image 20250324223016.png",
+    "spd/U 5 spd/convenio de exeso 2^(n-1).md",
+    "spd/archivos spd/imagenes/Pasted image 20250324223025.png",
+    "spd/U 5 spd/implementacion del Ca1.md",
+    "spd/U 5 spd/complemento A2.md",
+    "spd/U 5 spd/UNIDAD ARITMETICO LOGIACA(ALU).md",
+    "spd/U 5 spd/convenio de signo y magnitud.md",
+    "spd/archivos spd/imagenes/Pasted image 20250324221300.png",
+    "spd/archivos spd/imagenes/Pasted image 20250324220840.png",
+    "spd/U 5 spd/complemento A1.md",
+    "spd/archivos spd/imagenes/rangoca1.png",
+    "spd/archivos spd/imagenes/Pasted image 20250324211813.png",
     "ayudas para estilos de notas/HTML en obsidian.md",
-    "algoritmos 1/Abstraccion.md",
-    "spd/U 2 spd/tercera generacion.md",
-    "spd/U 2 spd/segunda generacion.md",
+    "spd/archivos spd/SPD - Programa-TPI-TRI.pdf",
+    "spd/archivos spd/imagenes/Pasted image 20250324183045.png",
+    "spd/archivos spd/imagenes/6e774ae7f08cde0b4b35eeec7d2b5ae58942ea9fr1-592-414v2_hq.jpg",
+    "spd/U 5 spd/numeros enteros sin signo.md",
+    "spd/archivos spd/imagenes/Pasted image 20250324202657.png",
+    "spd/SISTEMAS DE PROCESAMIENTO DE DATOS.md",
+    "spd/archivos spd/imagenes/Pasted image 20250324174936.png",
+    "spd/archivos spd/pdf's unidades/04 Computador.pdf",
+    "algoritmos 1/modulo 1/modulo1.pdf",
+    "algoritmos 1/modulo 1/Método.md",
+    "algoritmos 1/modulo 1/Mensaje.md",
+    "algoritmos 1/modulo 1/ambiente.md",
+    "spd/U 3 spd/codigos de paridad.md",
+    "spd/U 3 spd/codificacion ASCCI.md",
+    "spd/U 3 spd/sistema binario.md",
+    "spd/U 3 spd/Algebra de boole.md",
+    "spd/archivos spd/pdf's unidades/03 Sistemas numricos - boole.pdf",
+    "spd/archivos spd/pdf's asemmbler",
+    "spd/archivos spd/pdf's unidades",
+    "spd/archivos spd/pdf's unidades/06 Memorias.pdf",
+    "spd/archivos spd/pdf's unidades/07 Unidad de control.pdf",
+    "spd/archivos spd/pdf's unidades/08 Interrupciones.pdf",
+    "spd/U 4 spd/COMPUTADOR.md",
+    "spd/U 3 spd/cambios de base/decimal - binario.md",
+    "spd/U 3 spd/cambios de base/decimal - hexa.md",
+    "spd/U 3 spd/cambios de base/cambio de base.md",
+    "spd/U 3 spd/cambios de base/binario - Hexadecimal.md",
+    "cerebro virtual/NOTAS.md",
+    "spd/U 2 spd/HISTORIA DE LA COMPUTADORA.canvas",
     "spd/U 2 spd/que es la computadora.canvas",
-    "spd/U 2 spd/Primera generación.md",
-    "spd/U 2 spd/historia de la computadora.canvas",
-    "spd/U 2 spd/Generación cero.md",
-    "spd/U 2 spd/cuarta  generacion.md",
-    "Abstracción.md"
+    "algoritmos 1/todas las notas.canvas"
   ]
 }

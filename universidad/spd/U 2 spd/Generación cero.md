@@ -11,7 +11,7 @@ tags:
 
 # Contexto
 
-La generacion cero va desde la antiguedad hasta la segunda guerra mundial. Esta generacion se caracteiza por tener la necesidad de poder realizar calculos para la navegacion, el comercio o la ciencia. Esta generacion es importante en la [[historia de la computadora.canvas|historia de la computadora]] ya que sentó las bases de la computación con los primeros dispositivos mecánicos y electromecánicos, demostrando la viabilidad de la automatización de cálculos.
+La generacion cero va desde la antiguedad hasta la segunda guerra mundial. Esta generacion se caracteiza por tener la necesidad de poder realizar calculos para la navegacion, el comercio o la ciencia, implementando el [[que es la computadora.canvas|funcionamiento de la computadora]]. Esta generacion es importante en la [[HISTORIA DE LA COMPUTADORA.canvas|historia de la computadora]] ya que sentó las bases de la computación con los primeros dispositivos mecánicos y electromecánicos, demostrando la viabilidad de la automatización de cálculos.
 
 ![[02 Historia Parte 1.pdf#page=9]] 
 

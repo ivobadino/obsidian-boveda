@@ -176,3 +176,7 @@ Para ver las modificaciones que se hicieron al archivo, podemos entrar desde el 
 	`$ git restore --source hashDelCommit nombreArchivo
 
  Donde el nombre del archivo es el que quiero y el hash es el de la version especifica que quiero volver a traer (el codigo que sale a la izquierda del log)
+
+---
+# utilizando github con obsidian
+

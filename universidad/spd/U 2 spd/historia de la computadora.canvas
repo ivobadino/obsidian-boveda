@@ -16,9 +16,10 @@
 		{"id":"adbaca8c3e1fed08","type":"text","text":"-maquinas diferenciales de babbage\n\n-maquina analitica\n\n-harvard mark 1(MK1)","x":-780,"y":80,"width":250,"height":180},
 		{"id":"da6f969b68dcb056","type":"text","text":"-IBM 360\n\n-DEC PDP-8\n\n-Cray 1\n\n-MULTICS\n\n-ALTAIR 8800\n\n-APLE ONE\n\n-APPLE TWO","x":80,"y":80,"width":250,"height":340},
 		{"id":"5a01d43fd791446e","type":"text","text":"-IBM PC\n\n-commodore 64\n\n-Macintosh\n\n-Pentium\n\n-Familia intel","x":392,"y":80,"width":250,"height":281},
-		{"id":"16875835815ddadb","type":"file","file":"spd/archivos spd/02 Historia Parte 1.pdf","x":-880,"y":-844,"width":644,"height":520},
-		{"id":"af7f83c2fde85223","type":"file","file":"spd/archivos spd/02 Historia Parte 2.pdf","x":85,"y":-844,"width":590,"height":520},
-		{"id":"9286e452769a12b4","x":-134,"y":-660,"width":113,"height":60,"type":"text","text":"---\n\n---\n#spd "}
+		{"id":"16875835815ddadb","type":"file","file":"spd/archivos spd/pdf's unidades/02 Historia Parte 1.pdf","x":-880,"y":-844,"width":644,"height":520},
+		{"id":"af7f83c2fde85223","type":"file","file":"spd/archivos spd/pdf's unidades/02 Historia Parte 2.pdf","x":85,"y":-844,"width":590,"height":520},
+		{"id":"9286e452769a12b4","type":"text","text":"---\n\n---\n#spd ","x":-134,"y":-660,"width":113,"height":60},
+		{"id":"672c437d4c498680","x":155,"y":-280,"width":250,"height":60,"type":"text","text":"[[que es la computadora.canvas|que es la computadora]]"}
 	],
 	"edges":[
 		{"id":"76711758a01a7f2b","fromNode":"3fcefe58c06be47a","fromSide":"right","toNode":"5a65ddaeecf930b7","toSide":"left"},
@@ -31,6 +32,7 @@
 		{"id":"67e6c31c52d26a32","fromNode":"3bf3f5e1dd218ec4","fromSide":"top","toNode":"15cd556374bee690","toSide":"bottom"},
 		{"id":"d13efb6af9b6a59a","fromNode":"c10b077a449c2ab4","fromSide":"top","toNode":"5417210769a8ae5c","toSide":"bottom"},
 		{"id":"40b8204faba6c1c7","fromNode":"85f5ca23d7fe568c","fromSide":"top","toNode":"16875835815ddadb","toSide":"right"},
-		{"id":"2cb1bfbf816482a0","fromNode":"85f5ca23d7fe568c","fromSide":"top","toNode":"af7f83c2fde85223","toSide":"left"}
+		{"id":"2cb1bfbf816482a0","fromNode":"85f5ca23d7fe568c","fromSide":"top","toNode":"af7f83c2fde85223","toSide":"left"},
+		{"id":"be2279df8a632a1f","fromNode":"85f5ca23d7fe568c","fromSide":"right","toNode":"672c437d4c498680","toSide":"left"}
 	]
 }
