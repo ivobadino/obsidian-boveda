@@ -4,72 +4,166 @@
     "type": "split",
     "children": [
       {
-        "id": "e8752665262e729a",
-        "type": "split",
-        "dimension": 40.389972144846794,
+        "id": "9306ea9af963dcc6",
+        "type": "tabs",
+        "dimension": 38.370473537604454,
         "children": [
           {
-            "id": "9306ea9af963dcc6",
+            "id": "94cbe6ede97573c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "spd/U 5 spd/complemento A2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "complemento A2"
+            }
+          },
+          {
+            "id": "4aaa2db84dad8f51",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
+            "id": "aeac7e024f149c8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "spd/U 5 spd/aritmetica y logica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "aritmetica y logica"
+            }
+          },
+          {
+            "id": "8013f593a0502b97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "spd/U 5 spd/implementacion del Ca1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "implementacion del Ca1"
+            }
+          },
+          {
+            "id": "190b17904b16f66e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "anotaciones clase 26-03.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "anotaciones clase 26-03"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "4753a8c372e7d139",
+        "type": "split",
+        "dimension": 61.629526462395546,
+        "children": [
+          {
+            "id": "ddaa7cc056267a96",
             "type": "tabs",
+            "dimension": 22.37623762376238,
             "children": [
               {
-                "id": "94cbe6ede97573c6",
+                "id": "96667b94e5625349",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "spd/U 5 spd/complemento A2.md",
+                    "file": "cerebro virtual/TAREAS PENDIENTES PARA ESTUDIAR.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "complemento A2"
+                  "title": "TAREAS PENDIENTES PARA ESTUDIAR"
                 }
               },
               {
-                "id": "4aaa2db84dad8f51",
+                "id": "7c032fc47dd66025",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Vista gráfica"
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://gemini.google.com/app/8b1dd68fe5835fc4",
+                    "title": "Gemini",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Gemini"
                 }
               },
               {
-                "id": "aeac7e024f149c8f",
+                "id": "effe09d3b6554833",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "spd/U 5 spd/aritmetica y logica.md",
+                    "file": "programing/Git & GitHub.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "aritmetica y logica"
+                  "title": "Git & GitHub"
                 }
               },
               {
-                "id": "8013f593a0502b97",
+                "id": "7699a1e0696733fd",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "webviewer",
                   "state": {
-                    "file": "spd/U 5 spd/implementacion del Ca1.md",
-                    "mode": "source",
-                    "source": false
+                    "url": "https://campusvirtualecyt.unsam.edu.ar/course/view.php?id=9828",
+                    "title": "Curso: (2024-2CUAT) SPD-C-TI05",
+                    "mode": "webview"
                   },
-                  "icon": "lucide-file",
-                  "title": "implementacion del Ca1"
+                  "icon": "globe-2",
+                  "title": "Curso: (2024-2CUAT) SPD-C-TI05"
+                }
+              },
+              {
+                "id": "a63aed40d785e6a2",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://www.youtube.com/watch?v=9RPbdIRwJtY",
+                    "title": "UNSAM SPD Clase08 - YouTube",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "UNSAM SPD Clase08 - YouTube"
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 4
           },
           {
-            "id": "b6e3044a3dd0304d",
+            "id": "ca55f809ff90cfed",
             "type": "tabs",
+            "dimension": 77.62376237623762,
             "children": [
               {
                 "id": "fda22bd4524ef45d",
@@ -82,103 +176,23 @@
                   "icon": "lucide-file-text",
                   "title": "05 ALU"
                 }
+              },
+              {
+                "id": "b185970a0d26a9f6",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "spd/archivos spd/pdf's unidades/04 Computador.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "04 Computador"
+                }
               }
             ]
           }
         ],
         "direction": "horizontal"
-      },
-      {
-        "id": "ddaa7cc056267a96",
-        "type": "tabs",
-        "dimension": 59.610027855153206,
-        "children": [
-          {
-            "id": "96667b94e5625349",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cerebro virtual/TAREAS PENDIENTES PARA ESTUDIAR.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TAREAS PENDIENTES PARA ESTUDIAR"
-            }
-          },
-          {
-            "id": "3692f2e96ef6c0d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cerebro virtual/CALENDARIO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CALENDARIO"
-            }
-          },
-          {
-            "id": "76a661ad920c512b",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://web.whatsapp.com/",
-                "title": "(3) WhatsApp",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "(3) WhatsApp"
-            }
-          },
-          {
-            "id": "1e51e267b913468b",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.youtube.com/watch?v=2b4fYhlKTMk",
-                "title": "UNSAM SPD Clase07 - YouTube",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "UNSAM SPD Clase07 - YouTube"
-            }
-          },
-          {
-            "id": "7c032fc47dd66025",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://gemini.google.com/app/8b1dd68fe5835fc4",
-                "title": "Gemini",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Gemini"
-            }
-          },
-          {
-            "id": "effe09d3b6554833",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programing/Git & GitHub.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git & GitHub"
-            }
-          }
-        ],
-        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -340,13 +354,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "effe09d3b6554833",
+  "active": "190b17904b16f66e",
   "lastOpenFiles": [
-    "programing/Git & GitHub.md",
-    "cerebro virtual/TAREAS PENDIENTES PARA ESTUDIAR.md",
-    "cerebro virtual/CALENDARIO.md",
-    "spd/archivos spd/pdf's unidades/05 ALU.pdf",
+    "anotaciones clase 26-03.md",
+    "spd/U 6 spd",
     "spd/U 5 spd/aritmetica y logica.md",
+    "spd/archivos spd/pdf's unidades/05 ALU.pdf",
+    "spd/archivos spd/imagenes/imagenes de spd.canvas",
+    "spd/archivos spd/imagenes/Pasted image 20250326152053.png",
+    "cerebro virtual/TAREAS PENDIENTES PARA ESTUDIAR.md",
+    "spd/archivos spd/imagenes/Pasted image 20250326142615.png",
+    "spd/archivos spd/pdf's unidades/04 Computador.pdf",
+    "programing/Git & GitHub.md",
+    "algoritmos 1/programacion",
+    "cerebro virtual/CALENDARIO.md",
     "spd/archivos spd/imagenes/Pasted image 20250324223016.png",
     "spd/U 5 spd/convenio de exeso 2^(n-1).md",
     "spd/archivos spd/imagenes/Pasted image 20250324223025.png",
@@ -364,10 +385,7 @@
     "spd/archivos spd/imagenes/Pasted image 20250324183045.png",
     "spd/archivos spd/imagenes/6e774ae7f08cde0b4b35eeec7d2b5ae58942ea9fr1-592-414v2_hq.jpg",
     "spd/U 5 spd/numeros enteros sin signo.md",
-    "spd/archivos spd/imagenes/Pasted image 20250324202657.png",
     "spd/SISTEMAS DE PROCESAMIENTO DE DATOS.md",
-    "spd/archivos spd/imagenes/Pasted image 20250324174936.png",
-    "spd/archivos spd/pdf's unidades/04 Computador.pdf",
     "algoritmos 1/modulo 1/modulo1.pdf",
     "algoritmos 1/modulo 1/Método.md",
     "algoritmos 1/modulo 1/Mensaje.md",
@@ -380,14 +398,11 @@
     "spd/archivos spd/pdf's asemmbler",
     "spd/archivos spd/pdf's unidades",
     "spd/archivos spd/pdf's unidades/06 Memorias.pdf",
-    "spd/archivos spd/pdf's unidades/07 Unidad de control.pdf",
-    "spd/archivos spd/pdf's unidades/08 Interrupciones.pdf",
     "spd/U 4 spd/COMPUTADOR.md",
     "spd/U 3 spd/cambios de base/decimal - binario.md",
     "spd/U 3 spd/cambios de base/decimal - hexa.md",
     "spd/U 3 spd/cambios de base/cambio de base.md",
     "spd/U 3 spd/cambios de base/binario - Hexadecimal.md",
-    "cerebro virtual/NOTAS.md",
     "spd/U 2 spd/HISTORIA DE LA COMPUTADORA.canvas",
     "spd/U 2 spd/que es la computadora.canvas",
     "algoritmos 1/todas las notas.canvas"

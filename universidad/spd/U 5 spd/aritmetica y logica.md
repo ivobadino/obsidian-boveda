@@ -30,11 +30,55 @@ si OF =0 el resultado es correcto, en el debug veremos NV
 si OF =1 el resultado es incorecto, en el debug veremos OV
 
 
-en las operaciones con signo el pedir prestado o "borrow" activa el carry fla. y eso significaria que la operacion esta correcta 
+en las operaciones con signo el pedir prestado o "borrow" activa el carry flag. y eso significaría que la operación esta correcta 
 
-pero en una operacion sin signo la operacion seria incorrecta al haber un 1 en el carryflag
+pero en una operación sin signo la operación seria incorrecta al haber un 1 en el carryflag. por que se salio de rango
 
 si el reultado de una operacion arroja un numero con el bit mas significativo en 1, el "sign flag" SF=1 indicando que es negativo. en caso contrario dara SF=0
 
 el sf en el debug si es =0 es PL , si es =1 es NG
 
+### Sin Signo: 
+- Carry o Borrow (pedir prestado) implican Overflow  
+
+### Con Signo: 
+- Se ignoran el Carry o Borrow
+- OverFlow SIEMPRE!:
+	- Positivo + Positivo = Negativo 
+		- (positivo – negativo = negativo) 
+		
+	- Negativo + Negativo = Positivo 
+		- (negativo – positivo = positivo) 
+		
+- OverFlow NUNCA!: 
+	- Positivo + negativo (positivo – positivo) 
+	- Negativo + positivo (negativo – negativo)
+
+
+## sumador aritmetico
+
+| A   | B   | s   | Yc  |
+| --- | --- | --- | --- |
+| 0   | 0   | 0   | 0   |
+| 0   | 1   | 1   | 0   |
+| 1   | 0   | 1   | 0   |
+| 1   | 1   | 0   | 1   |
+
+![[Pasted image 20250326142615.png]]
+
+
+# sumador / restador
+
+para restar dos numero positivos, no toca hacer :
+- en primer lugar plantearnos la operacion : A + B
+- por matematica sabemos que A + B es igual a hacer A + (-B)
+- sabemos que -B es lo mismo que el Ca2(B)
+- que es lo mismo que Ca1(B) + 1
+- entonces hacer A - B es lo mismo que hacer : a + Ca1(B) + 1
+
+![[Pasted image 20250326152053.png]]
+
+
+# multiplicacion binaria
+
+la multiplicaciones una susesion de sumas y desplasamientos 
