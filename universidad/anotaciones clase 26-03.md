@@ -29,3 +29,23 @@ donde:
 - ### SEÑALES ASINCRONICAS:
   - **SEÑAL SET**:Coloca Q en 1 en forma asincrónica
   - **SEÑAL CLEAR**:Coloca Q en 0 en forma asincrónica
+
+---
+
+# buses
+
+## bus de direcciones
+
+en nuestro computador tenemos 16 registros. esto quiere decir que para direccionar a caulqueira de estos necesitamos solamente ==4== bits. Esta informacion corre por el bus de addres o direcciones en español.
+
+para direccinar a cada registro necesitariamos un decodificasdor de 4 bit con 16 salidas.
+
+## bus de datos
+
+para presentar los datos de un registro tengo que tener entradas/salidas controladas desde y hacia el bus de datos donde pasan todos los datos, tanto de escritura como los de lectura. Para ello necesito controlar la entrada y salida con buffers controlados por el **bus de control**
+
+## bus de control
+
+es un bus el cual indica si los datos se leen o se escriben
+
+## en conjunto
