@@ -49,3 +49,9 @@ para presentar los datos de un registro tengo que tener entradas/salidas control
 es un bus el cual indica si los datos se leen o se escriben
 
 ## en conjunto
+
+### secuencia de lectura/escritura
+1. xd
+2. xd
+3. xd
+
