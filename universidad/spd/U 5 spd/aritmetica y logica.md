@@ -79,6 +79,6 @@ para restar dos numero positivos, no toca hacer :
 ![[Pasted image 20250326152053.png]]
 
 
-# multiplicacion binaria
+# [[multiplicacion y division binaria]]
 
-la multiplicaciones una susesion de sumas y desplasamientos 
+como ya sabemos sumar Y resatar estamos en condiciones de poder multiplicar y dividir

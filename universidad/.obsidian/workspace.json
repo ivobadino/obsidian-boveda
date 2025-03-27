@@ -6,7 +6,7 @@
       {
         "id": "9306ea9af963dcc6",
         "type": "tabs",
-        "dimension": 38.370473537604454,
+        "dimension": 39.76323119777159,
         "children": [
           {
             "id": "94cbe6ede97573c6",
@@ -14,12 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spd/U 5 spd/complemento A2.md",
+                "file": "spd/U 5 spd/UNIDAD ARITMETICO LOGIACA(ALU).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "complemento A2"
+              "title": "UNIDAD ARITMETICO LOGIACA(ALU)"
+            }
+          },
+          {
+            "id": "213821c3673134f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "spd/U 6 spd/Memorias.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Memorias"
             }
           },
           {
@@ -33,59 +47,31 @@
             }
           },
           {
-            "id": "aeac7e024f149c8f",
+            "id": "7b68d7da052915e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spd/U 5 spd/aritmetica y logica.md",
+                "file": "anotaciones clase 27-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aritmetica y logica"
-            }
-          },
-          {
-            "id": "8013f593a0502b97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "spd/U 5 spd/implementacion del Ca1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "implementacion del Ca1"
-            }
-          },
-          {
-            "id": "190b17904b16f66e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "anotaciones clase 26-03.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "anotaciones clase 26-03"
+              "title": "anotaciones clase 27-03"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "4753a8c372e7d139",
         "type": "split",
-        "dimension": 61.629526462395546,
+        "dimension": 60.23676880222841,
         "children": [
           {
             "id": "ddaa7cc056267a96",
             "type": "tabs",
-            "dimension": 22.37623762376238,
+            "dimension": 61.28712871287129,
             "children": [
               {
                 "id": "96667b94e5625349",
@@ -107,7 +93,7 @@
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://gemini.google.com/app/8b1dd68fe5835fc4",
+                    "url": "https://gemini.google.com/app/d433c2d85b314544",
                     "title": "Gemini",
                     "mode": "webview"
                   },
@@ -116,31 +102,31 @@
                 }
               },
               {
-                "id": "effe09d3b6554833",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "programing/Git & GitHub.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Git & GitHub"
-                }
-              },
-              {
                 "id": "7699a1e0696733fd",
                 "type": "leaf",
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://campusvirtualecyt.unsam.edu.ar/course/view.php?id=9828",
-                    "title": "Curso: (2024-2CUAT) SPD-C-TI05",
+                    "url": "https://campusvirtualecyt.unsam.edu.ar/mod/url/view.php?id=134592",
+                    "title": "ECyT - Segundo Cuatrimestre 2024 - (MA-1C50053) - SISTEMAS C-TI05: Clase 09 (Y2B) - U6 = P1 - P11",
                     "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "Curso: (2024-2CUAT) SPD-C-TI05"
+                  "title": "ECyT - Segundo Cuatrimestre 2024 - (MA-1C50053) - SISTEMAS C-TI05: Clase 09 (Y2B) - U6 = P1 - P11"
+                }
+              },
+              {
+                "id": "679051f032c81111",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://www.youtube.com/watch?v=6W34fs43KtU",
+                    "title": "UNSAM SPD Clase09 - YouTube",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "UNSAM SPD Clase09 - YouTube"
                 }
               },
               {
@@ -156,14 +142,28 @@
                   "icon": "globe-2",
                   "title": "UNSAM SPD Clase08 - YouTube"
                 }
+              },
+              {
+                "id": "0c639a38e4503740",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "cerebro virtual/lista.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "lista"
+                }
               }
             ],
-            "currentTab": 4
+            "currentTab": 3
           },
           {
             "id": "ca55f809ff90cfed",
             "type": "tabs",
-            "dimension": 77.62376237623762,
+            "dimension": 38.71287128712871,
             "children": [
               {
                 "id": "fda22bd4524ef45d",
@@ -188,8 +188,21 @@
                   "icon": "lucide-file-text",
                   "title": "04 Computador"
                 }
+              },
+              {
+                "id": "cb13f0eb887668fc",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "spd/archivos spd/pdf's unidades/06 Memorias.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "06 Memorias"
+                }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -354,55 +367,54 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "190b17904b16f66e",
+  "active": "679051f032c81111",
   "lastOpenFiles": [
-    "anotaciones clase 26-03.md",
-    "spd/U 6 spd",
-    "spd/U 5 spd/aritmetica y logica.md",
-    "spd/archivos spd/pdf's unidades/05 ALU.pdf",
-    "spd/archivos spd/imagenes/imagenes de spd.canvas",
-    "spd/archivos spd/imagenes/Pasted image 20250326152053.png",
+    "cerebro virtual/lista.md",
+    "spd/archivos spd/pdf's unidades/06 Memorias.pdf",
+    "anotaciones clase 27-03.md",
     "cerebro virtual/TAREAS PENDIENTES PARA ESTUDIAR.md",
-    "spd/archivos spd/imagenes/Pasted image 20250326142615.png",
-    "spd/archivos spd/pdf's unidades/04 Computador.pdf",
+    "spd/U 6 spd/Memorias.md",
     "programing/Git & GitHub.md",
-    "algoritmos 1/programacion",
-    "cerebro virtual/CALENDARIO.md",
-    "spd/archivos spd/imagenes/Pasted image 20250324223016.png",
-    "spd/U 5 spd/convenio de exeso 2^(n-1).md",
-    "spd/archivos spd/imagenes/Pasted image 20250324223025.png",
+    "spd/U 5 spd/UNIDAD ARITMETICO LOGIACA(ALU).md",
+    "spd/U 3 spd/SISTEMAS NUMERICOS.md",
     "spd/U 5 spd/implementacion del Ca1.md",
     "spd/U 5 spd/complemento A2.md",
-    "spd/U 5 spd/UNIDAD ARITMETICO LOGIACA(ALU).md",
+    "spd/U 3 spd/sistema hexadesimal.md",
+    "spd/U 3 spd/sistema decimal.md",
+    "spd/U 3 spd/sistema binario.md",
+    "spd/U 3 spd/codigos de paridad.md",
+    "spd/U 3 spd/codificacion ASCCI.md",
+    "spd/U 3 spd/Binarios enteros.md",
+    "spd/U 3 spd/Algebra de boole.md",
+    "spd/U 5 spd/aritmetica y logica.md",
+    "spd/U 5 spd/complemento A1.md",
+    "spd/U 5 spd/convenio de exeso 2^(n-1).md",
     "spd/U 5 spd/convenio de signo y magnitud.md",
+    "spd/U 5 spd/multiplicacion y division binaria.md",
+    "spd/U 5 spd/numeros enteros con y sin signo.md",
+    "spd/U 5 spd/Numeros reales.md",
+    "spd/U 5 spd/Reales punto fijo.md",
+    "spd/U 5 spd/reales punto flotante.md",
+    "spd/archivos spd/pdf's unidades/05 ALU.pdf",
+    "spd/U 6 spd",
+    "spd/archivos spd/imagenes/imagenes de spd.canvas",
+    "spd/archivos spd/imagenes/Pasted image 20250326152053.png",
+    "spd/archivos spd/imagenes/Pasted image 20250326142615.png",
+    "spd/archivos spd/pdf's unidades/04 Computador.pdf",
+    "algoritmos 1/programacion",
+    "spd/archivos spd/imagenes/Pasted image 20250324223016.png",
+    "spd/archivos spd/imagenes/Pasted image 20250324223025.png",
     "spd/archivos spd/imagenes/Pasted image 20250324221300.png",
     "spd/archivos spd/imagenes/Pasted image 20250324220840.png",
-    "spd/U 5 spd/complemento A1.md",
     "spd/archivos spd/imagenes/rangoca1.png",
     "spd/archivos spd/imagenes/Pasted image 20250324211813.png",
-    "ayudas para estilos de notas/HTML en obsidian.md",
     "spd/archivos spd/SPD - Programa-TPI-TRI.pdf",
     "spd/archivos spd/imagenes/Pasted image 20250324183045.png",
     "spd/archivos spd/imagenes/6e774ae7f08cde0b4b35eeec7d2b5ae58942ea9fr1-592-414v2_hq.jpg",
-    "spd/U 5 spd/numeros enteros sin signo.md",
-    "spd/SISTEMAS DE PROCESAMIENTO DE DATOS.md",
     "algoritmos 1/modulo 1/modulo1.pdf",
-    "algoritmos 1/modulo 1/Método.md",
-    "algoritmos 1/modulo 1/Mensaje.md",
-    "algoritmos 1/modulo 1/ambiente.md",
-    "spd/U 3 spd/codigos de paridad.md",
-    "spd/U 3 spd/codificacion ASCCI.md",
-    "spd/U 3 spd/sistema binario.md",
-    "spd/U 3 spd/Algebra de boole.md",
     "spd/archivos spd/pdf's unidades/03 Sistemas numricos - boole.pdf",
     "spd/archivos spd/pdf's asemmbler",
     "spd/archivos spd/pdf's unidades",
-    "spd/archivos spd/pdf's unidades/06 Memorias.pdf",
-    "spd/U 4 spd/COMPUTADOR.md",
-    "spd/U 3 spd/cambios de base/decimal - binario.md",
-    "spd/U 3 spd/cambios de base/decimal - hexa.md",
-    "spd/U 3 spd/cambios de base/cambio de base.md",
-    "spd/U 3 spd/cambios de base/binario - Hexadecimal.md",
     "spd/U 2 spd/HISTORIA DE LA COMPUTADORA.canvas",
     "spd/U 2 spd/que es la computadora.canvas",
     "algoritmos 1/todas las notas.canvas"

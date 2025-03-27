@@ -14,6 +14,7 @@ tags:
 - [ ] hacer resumenes de la unidad 3 del pdf [[03 Sistemas numricos - boole.pdf]]
 	- [x] sitema decimal
 	- [x] sist binario
+		- [ ] binarios enteros
 	- [x] sist hexa
 	- [x] cambios de base
 	- [x] algebra de boole
@@ -21,6 +22,8 @@ tags:
 	- [ ] codificacion binaria
 		- [ ] ascci
 		- [ ] codificadores/decodificadores
+		- [ ] codigos de paridad
+
 - [ ] hacer sesumenes de la unidad 4 del pdf [[04 Computador.pdf]]
 	- [ ] arquitectura
 	- [ ] estructura
@@ -32,21 +35,22 @@ tags:
 		- [ ] hardvard mejorada
 	- [ ] familia de computadores/super-computadoras
 	- [ ] estructura de una placa madre
+
 - [ ] hacer resumenes de la unidad 5 del pdf [[05 ALU.pdf]]
-	- [ ] enteros binarios con y sin signo
-		- [ ] signo y magnitud
-		- [ ] complemento a1
-		- [ ] complemento a2
+	- [x] enteros binarios con y sin signo
+		- [x] signo y magnitud
+		- [x] complemento a1
+		- [x] complemento a2
 		- [ ] exeso
-	- [ ] implementacion complemento a1
-	- [ ] aritmetica y logica
+	- [x] implementacion complemento a1
+	- [ ] aritmetica y logica (==REVISAR==)
 		- [ ] overflow
 	- [ ] alu
 	- [ ] numeros reales
 		- [ ] alu con y sin signo
 		- [ ] numeros reales punto fijo
 		- [ ] nunmeros reales punto flotante
-		- [ ] 
+
 - [ ] hacer resumenes de la unidad 6 del pdf [[06 Memorias.pdf]]
 	- [ ] memorias
 	- [ ] registros
@@ -70,6 +74,7 @@ tags:
 	- [ ] memoria virtual
 		- [ ] espacios
 		- [ ] segmentacion y paginacion
+
 - [ ] hacer resumenes de la unidad 7 del pdf [[07 Unidad de control.pdf]]
 - [ ] hacer resumenes de la unidad 8 del pdf [[08 Interrupciones.pdf]]
 

@@ -13,7 +13,7 @@ Para poder entender como opera la alu y como opera tenemos que primero entender 
 
 # enumeracion entera
 
-## **[[numeros enteros sin signo]]**
+## **[[numeros enteros con y sin signo]]**
 
 enumeracion mas basica en la que la que la codificacion en binario en su totalidad es para la magnitud del numero.
 

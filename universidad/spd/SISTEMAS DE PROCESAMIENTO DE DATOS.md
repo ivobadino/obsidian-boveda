@@ -15,7 +15,7 @@ tags:
 # [[UNIDAD ARITMETICO LOGIACA(ALU)]] 
 
 
-# [[MEMORIAS]]
+# [[Memorias]]
 
 
 # [[UNIDAD DE CONTROL]]
