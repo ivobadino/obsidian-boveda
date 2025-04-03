@@ -1,6 +1,7 @@
 ---
 tags:
   - spd
+  - nodo-inicial
 ---
 # [[HISTORIA DE LA COMPUTADORA.canvas|HISTORIA DE LA COMPUTADORA]]
 

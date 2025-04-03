@@ -4,208 +4,132 @@
     "type": "split",
     "children": [
       {
-        "id": "9306ea9af963dcc6",
+        "id": "ad976d5603db05f5",
         "type": "tabs",
-        "dimension": 39.76323119777159,
+        "dimension": 48.81615598885794,
         "children": [
           {
-            "id": "94cbe6ede97573c6",
+            "id": "20d860736c97d6c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spd/U 5 spd/UNIDAD ARITMETICO LOGIACA(ALU).md",
+                "file": "matematica 3/MATE 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UNIDAD ARITMETICO LOGIACA(ALU)"
+              "title": "MATE 3"
             }
           },
           {
-            "id": "213821c3673134f8",
+            "id": "a85ce91f17aed5fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spd/U 6 spd/Memorias.md",
+                "file": "Teoria de algebra lineal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memorias"
+              "title": "Teoria de algebra lineal"
             }
           },
           {
-            "id": "4aaa2db84dad8f51",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
-          },
-          {
-            "id": "7b68d7da052915e3",
+            "id": "70de534cfbfe555d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "anotaciones clase 27-03.md",
+                "file": "matematica 3/unidad 3/Álgebra Lineal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "anotaciones clase 27-03"
+              "title": "Álgebra Lineal"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "c8b01aaa0f6fa2e5",
+        "type": "tabs",
+        "dimension": 51.183844011142064,
+        "children": [
+          {
+            "id": "3c684e68697fc4b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teoria de algebra lineal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Teoria de algebra lineal"
+            }
+          },
+          {
+            "id": "798c06c1db80971e",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://colab.research.google.com/drive/1PgwFJzppsKFc7WDk6xkAb6AXOw1uKZU0#scrollTo=UY1ZL0PcO0WN",
+                "title": "Unidad 3.ipynb - Colab",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Unidad 3.ipynb - Colab"
+            }
+          },
+          {
+            "id": "40ba74787c783ac3",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://gemini.google.com/app/226d7658a8fad336",
+                "title": "Gemini",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Gemini"
+            }
+          },
+          {
+            "id": "f9eacaf8f97c8d60",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://web.whatsapp.com/",
+                "title": "(2) WhatsApp",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "(2) WhatsApp"
+            }
+          },
+          {
+            "id": "59b5abb74195ebe2",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/VanitasXIV/Matem-tica-III/blob/main/Guia04/BigMacIndex.csv",
+                "title": "Matem-tica-III/Guia04/BigMacIndex.csv at main · VanitasXIV/Matem-tica-III · GitHub",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Matem-tica-III/Guia04/BigMacIndex.csv at main · VanitasXIV/Matem-tica-III · GitHub"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "4753a8c372e7d139",
-        "type": "split",
-        "dimension": 60.23676880222841,
-        "children": [
-          {
-            "id": "ddaa7cc056267a96",
-            "type": "tabs",
-            "dimension": 61.28712871287129,
-            "children": [
-              {
-                "id": "96667b94e5625349",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "cerebro virtual/TAREAS PENDIENTES PARA ESTUDIAR.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "TAREAS PENDIENTES PARA ESTUDIAR"
-                }
-              },
-              {
-                "id": "7c032fc47dd66025",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://gemini.google.com/app/d433c2d85b314544",
-                    "title": "Gemini",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Gemini"
-                }
-              },
-              {
-                "id": "7699a1e0696733fd",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://campusvirtualecyt.unsam.edu.ar/mod/url/view.php?id=134592",
-                    "title": "ECyT - Segundo Cuatrimestre 2024 - (MA-1C50053) - SISTEMAS C-TI05: Clase 09 (Y2B) - U6 = P1 - P11",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "ECyT - Segundo Cuatrimestre 2024 - (MA-1C50053) - SISTEMAS C-TI05: Clase 09 (Y2B) - U6 = P1 - P11"
-                }
-              },
-              {
-                "id": "679051f032c81111",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://www.youtube.com/watch?v=6W34fs43KtU",
-                    "title": "UNSAM SPD Clase09 - YouTube",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "UNSAM SPD Clase09 - YouTube"
-                }
-              },
-              {
-                "id": "a63aed40d785e6a2",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://www.youtube.com/watch?v=9RPbdIRwJtY",
-                    "title": "UNSAM SPD Clase08 - YouTube",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "UNSAM SPD Clase08 - YouTube"
-                }
-              },
-              {
-                "id": "0c639a38e4503740",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "cerebro virtual/lista.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "lista"
-                }
-              }
-            ],
-            "currentTab": 3
-          },
-          {
-            "id": "ca55f809ff90cfed",
-            "type": "tabs",
-            "dimension": 38.71287128712871,
-            "children": [
-              {
-                "id": "fda22bd4524ef45d",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "spd/archivos spd/pdf's unidades/05 ALU.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "05 ALU"
-                }
-              },
-              {
-                "id": "b185970a0d26a9f6",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "spd/archivos spd/pdf's unidades/04 Computador.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "04 Computador"
-                }
-              },
-              {
-                "id": "cb13f0eb887668fc",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "spd/archivos spd/pdf's unidades/06 Memorias.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "06 Memorias"
-                }
-              }
-            ],
-            "currentTab": 2
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -367,18 +291,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "679051f032c81111",
+  "active": "798c06c1db80971e",
   "lastOpenFiles": [
-    "cerebro virtual/lista.md",
-    "spd/archivos spd/pdf's unidades/06 Memorias.pdf",
+    "matematica 3/unidad 3/Álgebra Lineal.md",
+    "Pasted image 20250402173623.png",
+    "Pasted image 20250402173224.png",
+    "Pasted image 20250402173203.png",
+    "Teoria de algebra lineal.md",
+    "Pasted image 20250402173035.png",
+    "spd/SPD.md",
+    "matematica 3/MATE 3.md",
     "anotaciones clase 27-03.md",
+    "programing/curso one/primeros pasos one.md",
+    "programing/curso one/Pasted image 20250401215407.png",
+    "programing/curso one/Pasted image 20250401212130.png",
+    "matematica 3/unidad 6",
+    "matematica 3/unidad 5",
+    "matematica 3/unidad 4",
+    "matematica 3/unidad 3",
+    "matematica 3/unidad 2",
+    "matematica 3/unidad 1",
+    "Sin nombre",
+    "matematica 3/unidad 3",
+    "Sin título.md",
+    "algoritmos 1/ALGO 1.md",
+    "matematica 3",
+    "spd/U 5 spd/UNIDAD ARITMETICO LOGIACA(ALU).md",
     "cerebro virtual/TAREAS PENDIENTES PARA ESTUDIAR.md",
+    "spd/archivos spd/imagenes/imagenes de spd.canvas",
+    "spd/U 5 spd/complemento A2.md",
+    "ayudas para estilos de notas/pruevasxd.md",
+    "2025-03-31.md",
+    "spd/archivos spd/pdf's unidades/06 Memorias.pdf",
+    "cerebro virtual/lista.md",
     "spd/U 6 spd/Memorias.md",
     "programing/Git & GitHub.md",
-    "spd/U 5 spd/UNIDAD ARITMETICO LOGIACA(ALU).md",
     "spd/U 3 spd/SISTEMAS NUMERICOS.md",
     "spd/U 5 spd/implementacion del Ca1.md",
-    "spd/U 5 spd/complemento A2.md",
     "spd/U 3 spd/sistema hexadesimal.md",
     "spd/U 3 spd/sistema decimal.md",
     "spd/U 3 spd/sistema binario.md",
@@ -386,35 +335,10 @@
     "spd/U 3 spd/codificacion ASCCI.md",
     "spd/U 3 spd/Binarios enteros.md",
     "spd/U 3 spd/Algebra de boole.md",
-    "spd/U 5 spd/aritmetica y logica.md",
-    "spd/U 5 spd/complemento A1.md",
-    "spd/U 5 spd/convenio de exeso 2^(n-1).md",
-    "spd/U 5 spd/convenio de signo y magnitud.md",
-    "spd/U 5 spd/multiplicacion y division binaria.md",
-    "spd/U 5 spd/numeros enteros con y sin signo.md",
-    "spd/U 5 spd/Numeros reales.md",
-    "spd/U 5 spd/Reales punto fijo.md",
-    "spd/U 5 spd/reales punto flotante.md",
-    "spd/archivos spd/pdf's unidades/05 ALU.pdf",
-    "spd/U 6 spd",
-    "spd/archivos spd/imagenes/imagenes de spd.canvas",
     "spd/archivos spd/imagenes/Pasted image 20250326152053.png",
     "spd/archivos spd/imagenes/Pasted image 20250326142615.png",
-    "spd/archivos spd/pdf's unidades/04 Computador.pdf",
-    "algoritmos 1/programacion",
     "spd/archivos spd/imagenes/Pasted image 20250324223016.png",
     "spd/archivos spd/imagenes/Pasted image 20250324223025.png",
-    "spd/archivos spd/imagenes/Pasted image 20250324221300.png",
-    "spd/archivos spd/imagenes/Pasted image 20250324220840.png",
-    "spd/archivos spd/imagenes/rangoca1.png",
-    "spd/archivos spd/imagenes/Pasted image 20250324211813.png",
-    "spd/archivos spd/SPD - Programa-TPI-TRI.pdf",
-    "spd/archivos spd/imagenes/Pasted image 20250324183045.png",
-    "spd/archivos spd/imagenes/6e774ae7f08cde0b4b35eeec7d2b5ae58942ea9fr1-592-414v2_hq.jpg",
-    "algoritmos 1/modulo 1/modulo1.pdf",
-    "spd/archivos spd/pdf's unidades/03 Sistemas numricos - boole.pdf",
-    "spd/archivos spd/pdf's asemmbler",
-    "spd/archivos spd/pdf's unidades",
     "spd/U 2 spd/HISTORIA DE LA COMPUTADORA.canvas",
     "spd/U 2 spd/que es la computadora.canvas",
     "algoritmos 1/todas las notas.canvas"
