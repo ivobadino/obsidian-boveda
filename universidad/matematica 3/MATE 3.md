@@ -25,10 +25,10 @@ tags:
 
 ## Unidad 3: [[Álgebra Lineal]]
 
-- [ ] Vectores.
-- [ ] Dimensiones. 
-- [ ] Suma de vectores. 
-- [ ] Escalado de vectores.
+- [x] Vectores.
+- [x] Dimensiones. 
+- [x] Suma de vectores. 
+- [x] Escalado de vectores.
 - [ ] Transformaciones lineales. 
 - [ ] Vector base. 
 - [ ] Multiplicación de vectores y matrices.
@@ -36,7 +36,7 @@ tags:
 - [ ] Tipo de matrices.
 - [ ] Sistemas de ecuaciones.
 
-## Unidad 4: [[Conceptos de Estadística]]
+## Unidad 4: [[Estadistica]]
 
 - [ ] Sesgos. 
 - [ ] Tipo de sesgos.
@@ -70,4 +70,5 @@ tags:
 
 ## Bibliografía
 
-- [ ] Thomas Nield- Essential Math for Data Science (2022, O'Reilly Media, Inc.)
+- [ ] Thomas Nield- Essential Math for Data Science (2022, O'Reilly Media, Inc.) 
+# [[repaso unidades 1,2,3,4,5]]

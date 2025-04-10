@@ -2,7 +2,7 @@
 tags:
   - mate3
 ---
-# Álgebra lineal
+# [[Álgebra Lineal]]
 
 ---
 
