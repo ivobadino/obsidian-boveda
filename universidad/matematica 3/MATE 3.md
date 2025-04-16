@@ -38,15 +38,15 @@ tags:
 
 ## Unidad 4: [[Estadistica]]
 
-- [ ] Sesgos. 
-- [ ] Tipo de sesgos.
-- [ ] Poblaciones y muestras.
-- [ ] Promedio.
-- [ ] Promedio ponderado. 
-- [ ] Media. Mediana. 
-- [ ] Moda. Varianza. 
-- [ ] Desvío estándar.
-- [ ] Distribución Normal.
+- [x] Sesgos. 
+- [x] Tipo de sesgos.
+- [x] Poblaciones y muestras.
+- [x] Promedio.
+- [x] Promedio ponderado. 
+- [x] Media. Mediana. 
+- [x] Moda. Varianza. 
+- [x] Desvío estándar.
+- [x] Distribución Normal.
 
 ## Unidad 5: [[Regresión Lineal]]
 
