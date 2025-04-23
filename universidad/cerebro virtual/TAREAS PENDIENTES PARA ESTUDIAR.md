@@ -1,12 +1,6 @@
 ---
 tags:
 ---
-# algoritmos1 
-
-- [ ] completar resumen de el [[modulo 2.pdf]]
-- [ ] completar el resumen de el [[modulo 3.pdf]]
-- [ ] completar el resumen de el [[modulo 4.pdf]]
-
 # spd
 
 <iframe src="https://campusvirtualecyt.unsam.edu.ar/mod/resource/view.php?id=153650" width="800" height="600"></iframe>
@@ -52,16 +46,16 @@ tags:
 		- [ ] nunmeros reales punto flotante
 
 - [ ] hacer resumenes de la unidad 6 del pdf [[06 Memorias.pdf]]
-	- [ ] memorias
-	- [ ] registros
-	- [ ] memoria principal
-		- [ ] ordenamiento
+	- [x] memorias
+	- [x] registros
+	- [x] memoria principal
+		- [x] ordenamiento
 		- [ ] latencias
-		- [ ] bancos de memorias
-		- [ ] entrelazado de direcciones
-	- [ ] memorias c/u
-	- [ ] metodo de acceso
-	- [ ] volatilidad
+		- [x] bancos de memorias
+		- [x] entrelazado de direcciones
+	- [x] memorias c/u
+	- [x] metodo de acceso
+	- [x] volatilidad
 	- [ ] memorias rom/prom/eprom/eeprom
 	- [ ] memoria flash
 	- [ ] memoria cache

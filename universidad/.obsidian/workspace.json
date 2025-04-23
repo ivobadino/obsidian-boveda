@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d7665b15e0edef8c",
+        "id": "d94dc5d5500c627d",
         "type": "tabs",
-        "dimension": 54.73537604456824,
+        "dimension": 47.461212976022566,
         "children": [
           {
-            "id": "d89d2ec015e7673b",
+            "id": "0cbdbbb25d94ed5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memoria principal.md",
+                "file": "spd/U 6 spd/Memoria principal.md",
                 "mode": "source",
                 "source": false
               },
@@ -23,7 +23,35 @@
             }
           },
           {
-            "id": "28ea1d9eb2f963fe",
+            "id": "206c02d71fd0c19f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "spd/U 6 spd/Memorias.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Memorias"
+            }
+          },
+          {
+            "id": "e38685b0e2354f97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "spd/U 6 spd/registros de desplazamiento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "registros de desplazamiento"
+            }
+          },
+          {
+            "id": "b0055a39085598e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,7 +65,7 @@
             }
           },
           {
-            "id": "94dd85df6e0a927f",
+            "id": "904aa9986e004f33",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -51,82 +79,126 @@
             }
           },
           {
-            "id": "9fb9e910a6f09777",
+            "id": "37bdbb40ae9c990b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spd/U 6 spd/MEMORIAS.md",
+                "file": "cache.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MEMORIAS"
-            }
-          },
-          {
-            "id": "a072c66ec8fab9a4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "spd/archivos spd/pdf's unidades/06 Memorias.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "06 Memorias"
+              "title": "cache"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
-        "id": "6a209ddcc9d6cd41",
-        "type": "tabs",
-        "dimension": 45.26462395543175,
+        "id": "9a134c3f270a5c41",
+        "type": "split",
+        "dimension": 52.538787023977434,
         "children": [
           {
-            "id": "9b4d648338334bbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "clase-09-04-25.md",
-                "mode": "source",
-                "source": false
+            "id": "7d932afd9dab6110",
+            "type": "tabs",
+            "dimension": 59.5049504950495,
+            "children": [
+              {
+                "id": "07751d0bc660429c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "cerebro virtual/TAREAS PENDIENTES PARA ESTUDIAR.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "TAREAS PENDIENTES PARA ESTUDIAR"
+                }
               },
-              "icon": "lucide-file",
-              "title": "clase-09-04-25"
-            }
+              {
+                "id": "020f72549e649bcd",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://gemini.google.com/app/f49c9d92ca54aced",
+                    "title": "Gemini",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Gemini"
+                }
+              },
+              {
+                "id": "d132adbd9ee706d3",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://campusvirtualecyt.unsam.edu.ar/mod/url/view.php?id=134595",
+                    "title": "ECyT - Segundo Cuatrimestre 2024 - (MA-1C50053) - SISTEMAS C-TI05: Clase 12 (Y2B) - U6 = P38 - P47",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "ECyT - Segundo Cuatrimestre 2024 - (MA-1C50053) - SISTEMAS C-TI05: Clase 12 (Y2B) - U6 = P38 - P47"
+                }
+              },
+              {
+                "id": "1638ed28fd6d2a5d",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://www.youtube.com/watch?v=H5BpDSSiDj8",
+                    "title": "(5) UNSAM SPD Clase12 - YouTube",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "(5) UNSAM SPD Clase12 - YouTube"
+                }
+              },
+              {
+                "id": "e6ce073f62de9a13",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://campusvirtualecyt.unsam.edu.ar/my/",
+                    "title": "Área personal",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Área personal"
+                }
+              }
+            ],
+            "currentTab": 3
           },
           {
-            "id": "f8d08b0b08d7df5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "anotaciones clase 27-03.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "anotaciones clase 27-03"
-            }
-          },
-          {
-            "id": "3e06a8004093739b",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://gemini.google.com/app/f49c9d92ca54aced",
-                "title": "Gemini",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Gemini"
-            }
+            "id": "71ff4a95ab653e6b",
+            "type": "tabs",
+            "dimension": 40.4950495049505,
+            "children": [
+              {
+                "id": "8bff806e9fb39c94",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "spd/archivos spd/pdf's unidades/06 Memorias.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "06 Memorias"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -145,7 +217,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -158,7 +230,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:unidad-3",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,8 +255,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 218.5
   },
   "right": {
     "id": "6af3b59a250af80c",
@@ -289,35 +360,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a072c66ec8fab9a4",
+  "active": "1638ed28fd6d2a5d",
   "lastOpenFiles": [
+    "cache.md",
     "spd/archivos spd/pdf's unidades/06 Memorias.pdf",
-    "clase-09-04-25.md",
-    "Memoria principal.md",
-    "spd/U 6 spd/MEMORIAS.md",
-    "spd/U 6 spd/registros.md",
     "spd/U 6 spd/registros de lectura-escritura.md",
-    "spd/SPD.md",
-    "anotaciones clase 27-03.md",
+    "spd/U 6 spd/registros.md",
+    "spd/U 6 spd/latencias.md",
+    "spd/U 6 spd/tipos de memoria.md",
+    "spd/U 6 spd/memorias estaticas y dinamicas.md",
+    "spd/U 6 spd/memorias no volatiles.md",
     "cerebro virtual/TAREAS PENDIENTES PARA ESTUDIAR.md",
-    "Sin título.md",
+    "spd/U 6 spd/registros de desplazamiento.md",
+    "spd/U 6 spd/Memorias.md",
+    "spd/U 6 spd/Memoria principal.md",
+    "cerebro virtual/NOTAS.md",
+    "modulo 2.pdf.md",
+    "spd/SPD.md",
+    "meorias programables.md",
+    "anotaciones clase 27-03.md",
+    "Sin título 1.md",
+    "Sin título 2.md",
+    "Sin título 3.md",
+    "spd/archivos spd/imagenes/Pasted image 20250420182659.png",
+    "clase-09-04-25.md",
+    "spd/archivos spd/imagenes/Pasted image 20250421164619.png",
+    "matematica 3/Linear_regression.svg",
+    "spd/U 6 spd/MEMORIAS.md",
     "matematica 3/unidad 4/Estadistica.md",
-    "Regresión Lineal.md",
+    "matematica 3/Regresión Lineal.md",
     "matematica 3/MATE 3.md",
-    "Linear_regression.svg",
     "matematica 3/repaso unidades 1,2,3,4,5.md",
-    "matematica 3/unidad 4/teoria de estadistica.md",
-    "matematica 3/unidad 3/Teoria de algebra lineal.md",
-    "cerebro virtual/Sin título.md",
-    "matematica 3/unidad 3/Álgebra Lineal.md",
-    "registros de lectura/escritura.md",
     "registros de lectura",
     "spd/archivos spd/imagenes/Pasted image 20250403191547.png",
     "Pasted image 20250402173035.png",
     "Pasted image 20250402173203.png",
     "Pasted image 20250402173623.png",
     "Pasted image 20250402173224.png",
-    "programing/curso one/primeros pasos one.md",
     "programing/curso one/Pasted image 20250401215407.png",
     "programing/curso one/Pasted image 20250401212130.png",
     "matematica 3/unidad 6",
@@ -327,16 +406,7 @@
     "matematica 3/unidad 2",
     "matematica 3/unidad 1",
     "Sin nombre",
-    "matematica 3/unidad 3",
-    "algoritmos 1/ALGO 1.md",
-    "spd/U 5 spd/UNIDAD ARITMETICO LOGIACA(ALU).md",
     "spd/archivos spd/imagenes/imagenes de spd.canvas",
-    "spd/U 5 spd/complemento A2.md",
-    "ayudas para estilos de notas/pruevasxd.md",
-    "2025-03-31.md",
-    "cerebro virtual/lista.md",
-    "spd/archivos spd/imagenes/Pasted image 20250326152053.png",
-    "spd/archivos spd/imagenes/Pasted image 20250326142615.png",
     "spd/U 2 spd/HISTORIA DE LA COMPUTADORA.canvas",
     "spd/U 2 spd/que es la computadora.canvas",
     "algoritmos 1/todas las notas.canvas"
