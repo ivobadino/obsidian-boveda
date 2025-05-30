@@ -13,7 +13,7 @@ Para poder entender como opera la alu y como opera tenemos que primero entender 
 
 # enumeracion entera
 
-## **[[numeros enteros con y sin signo]]**
+## **numeros enteros con y sin signo**
 
 enumeracion mas basica en la que la que la codificacion en binario en su totalidad es para la magnitud del numero.
 
@@ -31,7 +31,7 @@ es un método para representar números negativos en binario, donde se invierten
 
 es el método estándar para representar números negativos en computadoras. Se obtiene invirtiendo los bits de un número y sumando 1, eliminando la doble representación del cero y simplificando las operaciones aritméticas.
 
-## **[[convenio de exeso 2^(n-1)]]**
+## **[[FALTA convenio de exeso 2elevado(n-1)]]**
 
 representa números desplazando el cero a la mitad del rango posible. Suma 2^(n-1) al número para codificarlo en binario, simplificando comparaciones pero requiriendo ajuste en operaciones aritméticas.
 

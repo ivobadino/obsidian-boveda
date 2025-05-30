@@ -38,4 +38,12 @@ tags:
 - [ ] espejo
 - [ ] placard nuevo
 - [ ] pintura
-- [ ] 
+
+## prioridades de compra si laburo en la agencia papa de luchi
+
+1. bici
+2. notebook ryzen3
+3. mochila amplia notebook safe
+4. mouse inalabrico
+5. auris bluethoot
+6. 

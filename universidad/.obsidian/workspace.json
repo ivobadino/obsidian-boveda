@@ -4,109 +4,149 @@
     "type": "split",
     "children": [
       {
-        "id": "d94dc5d5500c627d",
+        "id": "16477fae969e7fd6",
         "type": "tabs",
-        "dimension": 47.461212976022566,
+        "dimension": 52.32722143864598,
         "children": [
           {
-            "id": "0cbdbbb25d94ed5d",
+            "id": "48d227f0def40b82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spd/U 6 spd/Memoria principal.md",
+                "file": "spd/U 7 spd/UNIDAD DE CONTROL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memoria principal"
+              "title": "UNIDAD DE CONTROL"
             }
           },
           {
-            "id": "206c02d71fd0c19f",
+            "id": "580d31c9e6553f0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spd/U 6 spd/Memorias.md",
+                "file": "spd/U 7 spd/Secuenciamiento interno.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memorias"
+              "title": "Secuenciamiento interno"
             }
           },
           {
-            "id": "e38685b0e2354f97",
+            "id": "2f18177a88dc56f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spd/U 6 spd/registros de desplazamiento.md",
+                "file": "spd/U 7 spd/secuenciamiento implicito.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "registros de desplazamiento"
+              "title": "secuenciamiento implicito"
             }
           },
           {
-            "id": "b0055a39085598e6",
+            "id": "d07bfb28479c8624",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "spd/U 6 spd/registros.md",
-                "mode": "source",
-                "source": false
+                "file": "spd/archivos spd/Apunte materia comleta .pdf"
               },
-              "icon": "lucide-file",
-              "title": "registros"
+              "icon": "lucide-file-text",
+              "title": "Apunte materia comleta"
             }
           },
           {
-            "id": "904aa9986e004f33",
+            "id": "8e4ca0d06518f649",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spd/U 6 spd/registros de lectura-escritura.md",
+                "file": "spd/PARCIALITOS/PARCIALITO 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "registros de lectura-escritura"
+              "title": "PARCIALITO 6"
             }
           },
           {
-            "id": "37bdbb40ae9c990b",
+            "id": "0cb7798d9ea70d8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cache.md",
+                "file": "PARCIALITO 7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cache"
+              "title": "PARCIALITO 7"
             }
           }
         ],
         "currentTab": 5
       },
       {
-        "id": "9a134c3f270a5c41",
+        "id": "057e25d2d60fd909",
         "type": "split",
-        "dimension": 52.538787023977434,
+        "dimension": 47.672778561354015,
         "children": [
           {
-            "id": "7d932afd9dab6110",
+            "id": "cab254ba30cc4853",
             "type": "tabs",
-            "dimension": 59.5049504950495,
+            "dimension": 78.51485148514851,
             "children": [
               {
-                "id": "07751d0bc660429c",
+                "id": "c291aac1fff99f63",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://campusvirtualecyt.unsam.edu.ar/mod/quiz/review.php?attempt=325717&cmid=153740",
+                    "title": "Parcialito 7 (listo): Revisión del intento",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Parcialito 7 (listo): Revisión del intento"
+                }
+              },
+              {
+                "id": "b6cf683a545f3e3e",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://www.youtube.com/watch?v=2tr2OOvs5hE",
+                    "title": "UNSAM SPD Clase13 - YouTube",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "UNSAM SPD Clase13 - YouTube"
+                }
+              },
+              {
+                "id": "d4ee63d2edabd046",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://gemini.google.com/app/70a8dfe526083ab0",
+                    "title": "Google Gemini",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Google Gemini"
+                }
+              },
+              {
+                "id": "7205e7755feab5f8",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -120,79 +160,36 @@
                 }
               },
               {
-                "id": "020f72549e649bcd",
+                "id": "7ef56c96cd72de8f",
                 "type": "leaf",
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://gemini.google.com/app/f49c9d92ca54aced",
-                    "title": "Gemini",
+                    "url": "https://drive.google.com/drive/u/0/home",
+                    "title": "Página principal - Google Drive",
                     "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "Gemini"
-                }
-              },
-              {
-                "id": "d132adbd9ee706d3",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://campusvirtualecyt.unsam.edu.ar/mod/url/view.php?id=134595",
-                    "title": "ECyT - Segundo Cuatrimestre 2024 - (MA-1C50053) - SISTEMAS C-TI05: Clase 12 (Y2B) - U6 = P38 - P47",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "ECyT - Segundo Cuatrimestre 2024 - (MA-1C50053) - SISTEMAS C-TI05: Clase 12 (Y2B) - U6 = P38 - P47"
-                }
-              },
-              {
-                "id": "1638ed28fd6d2a5d",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://www.youtube.com/watch?v=H5BpDSSiDj8",
-                    "title": "(5) UNSAM SPD Clase12 - YouTube",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "(5) UNSAM SPD Clase12 - YouTube"
-                }
-              },
-              {
-                "id": "e6ce073f62de9a13",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://campusvirtualecyt.unsam.edu.ar/my/",
-                    "title": "Área personal",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Área personal"
+                  "title": "Página principal - Google Drive"
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           },
           {
-            "id": "71ff4a95ab653e6b",
+            "id": "2b8b79508b40597c",
             "type": "tabs",
-            "dimension": 40.4950495049505,
+            "dimension": 21.485148514851485,
             "children": [
               {
-                "id": "8bff806e9fb39c94",
+                "id": "c813f5a3949b5804",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "spd/archivos spd/pdf's unidades/06 Memorias.pdf"
+                    "file": "spd/archivos spd/pdf's unidades/07 Unidad de Control.pdf"
                   },
                   "icon": "lucide-file-text",
-                  "title": "06 Memorias"
+                  "title": "07 Unidad de Control"
                 }
               }
             ]
@@ -360,52 +357,55 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1638ed28fd6d2a5d",
+  "active": "c291aac1fff99f63",
   "lastOpenFiles": [
-    "cache.md",
-    "spd/archivos spd/pdf's unidades/06 Memorias.pdf",
-    "spd/U 6 spd/registros de lectura-escritura.md",
-    "spd/U 6 spd/registros.md",
-    "spd/U 6 spd/latencias.md",
-    "spd/U 6 spd/tipos de memoria.md",
-    "spd/U 6 spd/memorias estaticas y dinamicas.md",
-    "spd/U 6 spd/memorias no volatiles.md",
+    "PARCIALITO 7.md",
+    "spd/PARCIALITOS/PARCIALITO 6.md",
+    "spd/archivos spd/Apunte materia comleta .pdf",
+    "Sin nombre/desktop.ini",
+    "spd/PARCIALITOS",
+    "spd/archivos spd/RESUMEN SPD.pdf",
+    "spd/U 7 spd/secuenciamiento implicito.md",
+    "spd/archivos spd/pdf's unidades/07 Unidad de Control.pdf",
+    "spd/archivos spd/imagenes/Apuntes-SPD.docx",
+    "spd/U 7 spd/Secuenciamiento interno.md",
+    "spd/U 7 spd/UNIDAD DE CONTROL.md",
+    "IEEE.md",
+    "spd/archivos spd/pdf's unidades/05 ALU.pdf",
     "cerebro virtual/TAREAS PENDIENTES PARA ESTUDIAR.md",
-    "spd/U 6 spd/registros de desplazamiento.md",
-    "spd/U 6 spd/Memorias.md",
-    "spd/U 6 spd/Memoria principal.md",
-    "cerebro virtual/NOTAS.md",
-    "modulo 2.pdf.md",
-    "spd/SPD.md",
-    "meorias programables.md",
-    "anotaciones clase 27-03.md",
-    "Sin título 1.md",
-    "Sin título 2.md",
-    "Sin título 3.md",
-    "spd/archivos spd/imagenes/Pasted image 20250420182659.png",
-    "clase-09-04-25.md",
-    "spd/archivos spd/imagenes/Pasted image 20250421164619.png",
-    "matematica 3/Linear_regression.svg",
-    "spd/U 6 spd/MEMORIAS.md",
-    "matematica 3/unidad 4/Estadistica.md",
-    "matematica 3/Regresión Lineal.md",
+    "spd/U 5 spd/Reales punto fijo.md",
+    "spd/U 5 spd/Numeros reales.md",
+    "spd/U 5 spd/reales punto flotante.md",
+    "spd/U 5 spd/numeros enteros con y sin signo.md",
+    "spd/U 5 spd/numeros fraccionarios.md",
+    "spd/U 5 spd/UNIDAD ARITMETICO LOGIACA(ALU).md",
     "matematica 3/MATE 3.md",
-    "matematica 3/repaso unidades 1,2,3,4,5.md",
-    "registros de lectura",
-    "spd/archivos spd/imagenes/Pasted image 20250403191547.png",
-    "Pasted image 20250402173035.png",
-    "Pasted image 20250402173203.png",
-    "Pasted image 20250402173623.png",
-    "Pasted image 20250402173224.png",
-    "programing/curso one/Pasted image 20250401215407.png",
-    "programing/curso one/Pasted image 20250401212130.png",
-    "matematica 3/unidad 6",
-    "matematica 3/unidad 5",
-    "matematica 3/unidad 4",
-    "matematica 3/unidad 3",
-    "matematica 3/unidad 2",
-    "matematica 3/unidad 1",
-    "Sin nombre",
+    "spd/archivos spd/pdf's unidades/08 Interrupciones.pdf",
+    "spd/U 7 spd",
+    "spd/SPD.md",
+    "parcialito 3.md",
+    "spd/parcialitos/parcialito 2.md",
+    "spd/parcialitos/parcialito1.md",
+    "cerebro virtual/lista.md",
+    "spd/U 3 spd/cambios de base/decimal - binario.md",
+    "spd/U 3 spd/cambios de base/decimal - hexa.md",
+    "spd/U 3 spd/Algebra de boole.md",
+    "Sin título.canvas",
+    "Pasted image 20250424183040.png",
+    "Pasted image 20250424182735.png",
+    "Pasted image 20250424182416.png",
+    "Pasted image 20250424182341.png",
+    "Pasted image 20250424182228.png",
+    "Pasted image 20250424182128.png",
+    "Pasted image 20250424180424.png",
+    "spd/parcialitos",
+    "spd/U 3 spd/Sistemas numericos.md",
+    "spd/U 3 spd/cambios de base/cambio de base.md",
+    "spd/U 3 spd/cambios de base/binario - Hexadecimal.md",
+    "spd/U 5 spd/aritmetica y logica.md",
+    "spd/archivos spd/imagenes/Pasted image 20250324221300.png",
+    "spd/archivos spd/imagenes/Pasted image 20250420182659.png",
+    "spd/archivos spd/imagenes/Pasted image 20250421164619.png",
     "spd/archivos spd/imagenes/imagenes de spd.canvas",
     "spd/U 2 spd/HISTORIA DE LA COMPUTADORA.canvas",
     "spd/U 2 spd/que es la computadora.canvas",

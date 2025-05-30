@@ -7,7 +7,7 @@ tags:
 ---
 # numeros enteros binarios con signo
 
-![[UNIDAD ARITMETICO LOGIACA(ALU)#** numeros enteros con y sin signo **]]
+enumeracion mas basica en la que la que la codificacion en binario en su totalidad es para la magnitud del numero.
 
 esto quiere decir que no hay bit de signo, los n bits son destinados a la magnitud del numero.
 ## representacion:
