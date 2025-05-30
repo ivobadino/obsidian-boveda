@@ -27,3 +27,4 @@ Es otra forma en la cual las microinstrucciones se almacenan, en este caso las m
 
 el formato que tienen consiste en un primer paquete de bits que define la operacion (COP = codigo de operaciones). Y luego una serie de paquetees de bits (OBJETS) con la informacion complementaria para completar la operacion.
 
+El set de instrucciones son un conjunto de instrucciones disponibles para el programador, son codigos binarios asociados a un codigo simbolico como en nuestro caso a asemmbler .
