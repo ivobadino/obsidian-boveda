@@ -15,6 +15,6 @@ En resumen el secuenciamiento interno de microinstrucciones es el "director de o
 
 De acuerdo a como de ubiquen las microintrucciones en la memoria de constrol se tendran dos tipos de secuenciamiento de las mismas.
 
-- ## [[secuenciamiento implicito]]
+![[Micro instrucciones#Secuenciamiento implicito]]
 
-- ## [[secuenciamiento explicito]]
+![[Micro instrucciones#Secuenciamineto explicito]]
